@@ -5,3 +5,4 @@ negyedik sor (bugfix)
 eliot
 negyedik sor (master)
 ötödik sor (teve)
+hetedik teve (e)
