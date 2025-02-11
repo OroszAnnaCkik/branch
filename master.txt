@@ -6,3 +6,4 @@ eliot
 negyedik sor (master)
 ötödik sor (teve)
 hetedik teve (e)
+nyolc teve (teve)
