@@ -4,3 +4,4 @@ harmadik sor (bugfix)
 negyedik sor (bugfix)
 eliot
 negyedik sor (master)
+ötödik valami (tevek)
